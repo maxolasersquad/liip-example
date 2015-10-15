@@ -1,0 +1,5 @@
+AppBundle\Entity\Bar:
+  type: entity
+  fields:
+    status:
+      type: string
